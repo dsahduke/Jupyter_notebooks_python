@@ -16,3 +16,6 @@ For those of you that are already familiar with tools such as Docker, you can pu
 
 `docker pull jupyter/datascience-notebook` is another alternative that includes kernels for R and Julia, in case you want to explore those languages as well.
 
+# Homework 1:
+
+For homework 1, please follow the instructions that are written out in the hw1.ipynb file. For questions about submissions, please email an instructor.
