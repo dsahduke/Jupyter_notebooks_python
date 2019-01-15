@@ -12,10 +12,7 @@ Alternatively, you can use software containerizations software that has Jupyter 
 
 For those of you that are already familiar with tools such as Docker, you can pull the following container down and it will contain everything you need to run the notebooks for this course unless otherwise specified.
 
-`docker pull jupyter/scipy-notebook` for a python docker container with jupyter that contains most of the scietific python stack.
+`docker pull jupyter/scipy-notebook` for a python docker container with jupyter that contains most of the scientific python stack.
 
 `docker pull jupyter/datascience-notebook` is another alternative that includes kernels for R and Julia, in case you want to explore those languages as well.
 
-# Homework 1:
-
-For homework 1, please follow the instructions that are written out in the hw1.ipynb file. For questions about submissions, please email an instructor.
